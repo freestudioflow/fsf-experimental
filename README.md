@@ -26,6 +26,7 @@ The season tests which models and recipes work with FSF on Kaggle.
 | S2E03 | The Proxy Gap: How the Worker Got Out | [Watch](https://www.youtube.com/watch?v=T8009WWEzTI) | [Drive folder](https://drive.google.com/drive/folders/1XjzOBIY2K6JPsYmF4usiKavK1a4Zy07V) |
 | S2E04 | The Minus-Two Frames: Video2X's Tail Trim | [Watch](https://www.youtube.com/watch?v=R7o0JTu8k0E) | [Drive folder](https://drive.google.com/drive/folders/1bdNaSTX5vsUhVA-Smq4smLVVm7c-Z9Jx) |
 | S2E05 | The Voice Saga: Two Voices That Never Spoke | [Watch](https://www.youtube.com/watch?v=oVjmud_WvM4) | [Drive folder](https://drive.google.com/drive/folders/1xHoKSsJWhn_meYy1xaiNwlD4I4jQ4fli) |
+| S2E06 | The Resume Wave | [Watch](https://www.youtube.com/watch?v=ofg6-fad-Jo) | [Drive folder](https://drive.google.com/drive/folders/1UWIq7F6eK9tsz5M4JhHg6K4qbluXCqHl) |
 
 ## Links
 
