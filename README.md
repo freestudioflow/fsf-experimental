@@ -1,6 +1,6 @@
 # FSF Experimental
 
-Supplementary links and notes for the MuseVibe YouTube series about FSF (Free Studio Flow): episode videos and practice files.
+Supplementary links and notes for the MuseVibe YouTube series about FSF (Free Studio Flow): episode videos, practice files, and standalone explainers.
 
 Channel: [MuseVibe](https://www.youtube.com/@MuseVibe-i4g)
 
@@ -27,6 +27,14 @@ The season tests which models and recipes work with FSF on Kaggle.
 | S2E04 | The Minus-Two Frames: Video2X's Tail Trim | [Watch](https://www.youtube.com/watch?v=R7o0JTu8k0E) | [Drive folder](https://drive.google.com/drive/folders/1bdNaSTX5vsUhVA-Smq4smLVVm7c-Z9Jx) |
 | S2E05 | The Voice Saga: Two Voices That Never Spoke | [Watch](https://www.youtube.com/watch?v=oVjmud_WvM4) | [Drive folder](https://drive.google.com/drive/folders/1xHoKSsJWhn_meYy1xaiNwlD4I4jQ4fli) |
 | S2E06 | The Resume Wave | [Watch](https://www.youtube.com/watch?v=ofg6-fad-Jo) | [Drive folder](https://drive.google.com/drive/folders/1UWIq7F6eK9tsz5M4JhHg6K4qbluXCqHl) |
+
+## Standalone Explainers
+
+Explainer episodes outside any season.
+
+| Title | Video | Notes |
+|---|---|---|
+| The Journey of a Frame: How Free Studio Flow Works | [Watch](https://www.youtube.com/watch?v=ZWVrp-YYy5k) | NotebookLM explainer generated from the FSF repository; not part of a season. No practice files. |
 
 ## Links
 
