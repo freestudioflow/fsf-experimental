@@ -35,6 +35,7 @@ Explainer episodes outside any season.
 | Title | Video | Notes |
 |---|---|---|
 | The Journey of a Frame: How Free Studio Flow Works | [Watch](https://www.youtube.com/watch?v=ZWVrp-YYy5k) | NotebookLM explainer generated from the FSF repository; not part of a season. No practice files. |
+| Onboarding FSF 0.1.0rc15: Your First Steps with Free Studio Flow | [Watch](https://www.youtube.com/watch?v=29a9lRZ5bik) | NotebookLM explainer covering FSF 0.1.0rc15; not part of a season. No practice files. |
 
 ## Links
 
