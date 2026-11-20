@@ -28,6 +28,14 @@ The season tests which models and recipes work with FSF on Kaggle.
 | S2E05 | The Voice Saga: Two Voices That Never Spoke | [Watch](https://www.youtube.com/watch?v=oVjmud_WvM4) | [Drive folder](https://drive.google.com/drive/folders/1xHoKSsJWhn_meYy1xaiNwlD4I4jQ4fli) |
 | S2E06 | The Resume Wave | [Watch](https://www.youtube.com/watch?v=ofg6-fad-Jo) | [Drive folder](https://drive.google.com/drive/folders/1UWIq7F6eK9tsz5M4JhHg6K4qbluXCqHl) |
 
+## Season 3 — FSF Studio on Kaggle
+
+The season compares free models on Kaggle with the same prompts, then makes short films with what passes.
+
+| Episode | Title | Video | Practice files |
+|---|---|---|---|
+| S3E01 | The Free Voice Showdown | [Watch](https://www.youtube.com/watch?v=kp-9fBhG4h0) | [Drive folder](https://drive.google.com/drive/folders/1DbBiosZF7LFnfuVI6sD2wim8rtS_ok9F) |
+
 ## Standalone Explainers
 
 Explainer episodes outside any season.
